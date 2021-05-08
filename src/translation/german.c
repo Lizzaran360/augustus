@@ -41,7 +41,6 @@ static translation_string all_strings[] = {
     {TR_CONFIG_VIDEO, "Videoauflösung"},
     {TR_CONFIG_FULLSCREEN, "Vollbild"},
     {TR_CONFIG_WINDOWED_RESOLUTION, "Auflösung Fenstermodus:"},
-	{TR_CONFIG_PAGE_LABEL, "Seite"},
     {TR_CONFIG_DISPLAY_SCALE, "Skalierung der Anzeige:"},
     {TR_CONFIG_CURSOR_SCALE, "Skalierung des Mauszeigers:"},
 	{TR_CONFIG_AUDIO, "Audio Optionen"},
