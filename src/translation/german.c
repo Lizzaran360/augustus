@@ -672,7 +672,7 @@ static translation_string all_strings[] = {
     {TR_MARKET_NOT_TRADING, "kein Handel"},
     {TR_TEMPLE_DISTRIBUTING, "Verteilung"},
     {TR_TEMPLE_NOT_DISTRIBUTING, "keine Verteilung"},
-    {TR_ADVISOR_CHIEF_NO_IMMIGRATION_SQUALOR, "Schlechte Wohnbedingungen verhindern Zuwanderung"}
+    {TR_ADVISOR_CHIEF_NO_IMMIGRATION_SQUALOR, "Schlechte Wohnbedingungen verhindern Zuwanderung"},
 };
 
 void translation_german(const translation_string **strings, int *num_strings)
