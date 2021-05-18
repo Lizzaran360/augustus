@@ -26,7 +26,7 @@ static translation_string all_strings[] = {
     {TR_BUTTON_OK, "OK"},
     {TR_BUTTON_CANCEL, "Abbrechen"},
     {TR_BUTTON_RESET_DEFAULTS, "Zurücksetzen"},
-    {TR_BUTTON_CONFIGURE_HOTKEYS, "Tastenkombinationen"},
+    {TR_BUTTON_CONFIGURE_HOTKEYS, "Schnelltasten"},
     {TR_CONFIG_ARE_YOU_SURE, "Auf Standard zurücksetzen?"},
     {TR_CONFIG_YOU_WILL_LOSE_YOUR_CONFIGS, "Sie verlieren alle Ihre benutzerdefinierten Konfigurationen."},
     {TR_CONFIG_YOU_WILL_LOSE_YOUR_HOTKEYS, "Sie verlieren alle Ihre benutzerdefinierten Tastenkombinationen."},
