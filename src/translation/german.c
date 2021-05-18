@@ -1,6 +1,5 @@
 #include "translation/common.h"
 #include "translation/translation.h"
-Letzte Bearbeitung: 18.05.21
 
 static translation_string all_strings[] = {
     {TR_NO_PATCH_TITLE, "Patch 1.0.1.0 ist nicht installiert"},
