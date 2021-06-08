@@ -598,7 +598,7 @@ static translation_string all_strings[] = {
     {TR_BUILDING_WATCHTOWER, "Wachturm"},
     {TR_BUILDING_WATCHTOWER_DESC, "Bogenschützen auf den Zinnen dieses Turms halten wachsam Ausschau nach jedem Anzeichen von Eindringlingen, während Wächter unten auf den Straßen patrouillieren."},
     {TR_BUILDING_WATCHTOWER_DESC_NO_SOLDIERS, "Dieser Wachturm braucht einen Wächter aus der Kaserne, bevor er unsere Stadt schützen kann."},
-    {TR_BUILDING_NYMPHAEUM, "Nymphaeum"},
+    {TR_BUILDING_NYMPHAEUM, "Nymphäum"},
     {TR_BUILDING_NYMPHAEUM_DESC, "Dieser große Tempel ist den Wassernymphen gewidmet - kleineren Gottheiten der Quellen, der Flüsse und der See. Er verspricht dem umliegenden Land Schönheit und Überfluss und der Stadt die Gunst des Göttlichen."},
     {TR_BUILDING_SMALL_MAUSOLEUM, "Kleines Mausoleum"},
     {TR_BUILDING_SMALL_MAUSOLEUM_DESC, "Dieses Gebäude ist die letzte Ruhestätte vieler vergangener Generationen der stolzen Familien Ihrer Stadt, und der Neid vieler unter den Lebenden."},
