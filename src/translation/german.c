@@ -88,7 +88,7 @@ static translation_string all_strings[] = {
     {TR_CONFIG_GETTING_GRANARIES_GO_OFFROAD, "Wagenschieber von fordernden Silos können abseits der Straße laufen"},
     {TR_CONFIG_GRANARIES_GET_DOUBLE, "Doppelte Kapazität für Wagenschieber fordernder Silos"},
     {TR_CONFIG_ALLOW_EXPORTING_FROM_GRANARIES, "Erlaube Händlern Nahrung von Silos zu exportieren"},
-    {TR_CONFIG_TOWER_SENTRIES_GO_OFFROAD, "Turmwächter brauchen keine Straßenverbindung zu einer Kaserne"},
+    {TR_CONFIG_TOWER_SENTRIES_GO_OFFROAD, "Wachtürme brauchen keine Straßenverbindung zu einer Kaserne"},
     {TR_CONFIG_FARMS_DELIVER_CLOSE, "Farmen und Kais liefern nur an nahegelegene Silos"},
     {TR_CONFIG_DELIVER_ONLY_TO_ACCEPTING_GRANARIES, "Essen wird nicht an fordernde Silos geliefert"},
     {TR_CONFIG_ALL_HOUSES_MERGE, "Alle Häuser verschmelzen"},
