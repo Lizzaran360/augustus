@@ -95,7 +95,7 @@ static translation_string all_strings[] = {
     {TR_CONFIG_WINE_COUNTS_IF_OPEN_TRADE_ROUTE, "Das Öffnen einer Handelsroute stellt eine andere Weinsorte bereit"},
     {TR_CONFIG_RANDOM_COLLAPSES_TAKE_MONEY, "Einstürzende Lehmgruben und Eisenminen kosten Geld"},
     {TR_CONFIG_MULTIPLE_BARRACKS, "Erlaube das Errichten mehrerer Kasernen"},
-    {TR_CONFIG_NOT_ACCEPTING_WAREHOUSES, "Warenhäuser nehmen nach dem Bau nichts an"},
+    {TR_CONFIG_NOT_ACCEPTING_WAREHOUSES, "Lagerhäuser nehmen nach dem Bau nichts an"},
     {TR_CONFIG_HOUSES_DONT_EXPAND_INTO_GARDENS, "Häuser erweitern sich nicht in Gärten"},
     {TR_CONFIG_ROAMERS_DONT_SKIP_CORNERS, "Wandernde Arbeiter kürzen an Ecken nicht ab"},
     {TR_CONFIG_ZOOM_COULD_NOT_BE_ENABLED_TITLE, "Stadt-Zoom konnte nicht aktiviert werden."},
