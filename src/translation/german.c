@@ -92,7 +92,7 @@ static translation_string all_strings[] = {
     {TR_CONFIG_DELIVER_ONLY_TO_ACCEPTING_GRANARIES, "Essen wird nicht an fordernde Silos geliefert"},
     {TR_CONFIG_ALL_HOUSES_MERGE, "Alle Häuser verschmelzen"},
     {TR_CONFIG_WINE_COUNTS_IF_OPEN_TRADE_ROUTE, "Das Öffnen einer Handelsroute stellt eine andere Weinsorte bereit"},
-    {TR_CONFIG_RANDOM_COLLAPSES_TAKE_MONEY, "Tongruben und Eisenminen kosten bei Einsturz Geld"},
+    {TR_CONFIG_RANDOM_COLLAPSES_TAKE_MONEY, "Tongruben und Eisenminen kosten beim Einsturz Geld"},
     {TR_CONFIG_MULTIPLE_BARRACKS, "Erlaube das Errichten mehrerer Kasernen"},
     {TR_CONFIG_NOT_ACCEPTING_WAREHOUSES, "Warenhäuser nehmen nach dem Bau nichts an"},
     {TR_CONFIG_HOUSES_DONT_EXPAND_INTO_GARDENS, "Häuser erweitern sich nicht in Gärten"},
