@@ -724,7 +724,7 @@ static translation_string all_strings[] = {
     {TR_WINDOW_RACE_BLUE_HORSE_DESCRIPTION, "Das blaue Team - die Lieblinge des Neptun. Es sind die vielversprechendsten jungen Wagenlenker Roms, die sich beweisen wollen."},
     {TR_WINDOW_RACE_RED_HORSE_DESCRIPTION, "Die rote Mannschaft - bekannt als die Mannschaft des erfolgreichsten Wagenlenkers in der Geschichte Roms - ein ehemaliger Ruderer und Retter eines römischen Konsuls."},
     {TR_WINDOW_RACE_WHITE_HORSE_DESCRIPTION, "Das weiße Team - gegründet von ehemaligen Gladiatoren. Sie haben den Kampf im Blut, und auch als freie Männer leben sie für die Herausforderung."},
-    {TR_WINDOW_RACE_GREEN_HORSE_DESCRIPTION, "Das grüne Team - Nachfahren der "Celeres"-Reiter aus der Zeit des römischen Königreichs. Sie behaupten immer noch, die Besten der Besten zu sein."},
+    {TR_WINDOW_RACE_GREEN_HORSE_DESCRIPTION, "Das grüne Team - Nachfahren der \"Celeres\"-Reiter aus der Zeit des römischen Königreichs. Sie behaupten immer noch, die Besten der Besten zu sein."},
     {TR_TOOLTIP_BUTTON_REJECT_WORKERS, "Ressourcenzufuhr fortsetzen"},
     {TR_CONFIG_VIDEO_SOUND, "Videoton einschalten"},
     {TR_BUILDING_WATCHTOWER_DESC_NO_SOLDIERS, "Dieser Turm braucht einen Wächter aus der Kaserne, bevor er unsere Stadt schützen kann."},
