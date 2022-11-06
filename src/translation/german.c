@@ -846,7 +846,7 @@ static translation_string all_strings[] = {
     {TR_CHEAT_FINISHED_MONUMENTS, "Monumente vollendet"},
     {TR_CHEAT_UPDATED_MONUMENTS, "Monumente aktualisiert"},
     {TR_CHEAT_UNLOCKED_ALL_BUILDINGS, "Alle Gebäude freigeschaltet"},
-    {TR_CHEAT_INCITED_RIOT, "Aufstand angezettelt"}
+    {TR_CHEAT_INCITED_RIOT, "Aufstand angezettelt"},
     {TR_BUILDING_HIGHWAY, "Schnellstraße" },
     {TR_BUILDING_HIGHWAY_DESC, "Schnellstraße ermöglichen es den Bürgern, ihr Ziel schneller zu erreichen." },
     {TR_CITY_MESSAGE_TITLE_ROAD_TO_ROME_WARNING, "Stadt Unerreichbar" },
