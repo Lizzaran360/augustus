@@ -119,7 +119,7 @@ static translation_string all_strings[] = {
     {TR_HOTKEY_ARROW_DOWN, "Runter"},
     {TR_HOTKEY_ARROW_LEFT, "Links"},
     {TR_HOTKEY_ARROW_RIGHT, "Rechts"},
-    {TR_HOTKEY_TOGGLE_FULLSCREEN, "Vollbild ein-/ausschalten"},
+    {TR_HOTKEY_TOGGLE_FULLSCREEN, "Vollbild ein-/ausschalten"}
     {TR_HOTKEY_CENTER_WINDOW, "Fenster zentrieren"},
     {TR_HOTKEY_RESIZE_TO_640, "Fenstergröße: 640x480"},
     {TR_HOTKEY_RESIZE_TO_800, "Fenstergröße: 800x600"},
@@ -916,7 +916,7 @@ static translation_string all_strings[] = {
     {TR_EDITOR_FAVOUR_EXTENSION_MONTHS, "Erlaubte Verlängerungsmonate" },
     {TR_EDITOR_FAVOUR_IGNORED, "verlorene Gunst beim Ignorieren der Forderung" },
     {TR_EDITOR_SELECTED_COORDS, "Ausgewählte Koordinaten: " },
-    {TR_EDITOR_TOGGLE_INVASIONS, "schalte auf Invasionen" },
+    {TR_EDITOR_TOGGLE_INVASIONS, "Invasionen zeigen" },
 
 };
 
