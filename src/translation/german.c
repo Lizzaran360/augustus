@@ -119,7 +119,7 @@ static translation_string all_strings[] = {
     {TR_HOTKEY_ARROW_DOWN, "Runter"},
     {TR_HOTKEY_ARROW_LEFT, "Links"},
     {TR_HOTKEY_ARROW_RIGHT, "Rechts"},
-    {TR_HOTKEY_TOGGLE_FULLSCREEN, "Vollbild ein-/ausschalten"}
+    {TR_HOTKEY_TOGGLE_FULLSCREEN, "Vollbild ein-/ausschalten"}, 
     {TR_HOTKEY_CENTER_WINDOW, "Fenster zentrieren"},
     {TR_HOTKEY_RESIZE_TO_640, "Fenstergröße: 640x480"},
     {TR_HOTKEY_RESIZE_TO_800, "Fenstergröße: 800x600"},
