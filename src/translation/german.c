@@ -104,7 +104,7 @@ static translation_string all_strings[] = {
     {TR_CONFIG_ROAMERS_DONT_SKIP_CORNERS, "Wandernde Arbeiter kürzen an Ecken nicht ab"},
     {TR_CONFIG_SHOW_MAX_POSSIBLE_PROSPERITY, "Anzeige des maximalen Wohlstands mit aktuellen Behausungen."},
     {TR_CONFIG_AUTO_KILL_ANIMALS, "Einwohner werden automatisch harmlose Tiere töten"},
-	{TR_CONFIG_DRAW_CLOUD_SHADOWS, "Wolkenschatten"},
+    {TR_CONFIG_DRAW_CLOUD_SHADOWS, "Wolkenschatten"},
     {TR_HOTKEY_TITLE, "Augustus Schnelltasten"},
     {TR_HOTKEY_LABEL, "Schnelltasten"},
     {TR_HOTKEY_ALTERNATIVE_LABEL, "Alternativ"},
