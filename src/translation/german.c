@@ -113,7 +113,7 @@ static translation_string all_strings[] = {
     {TR_CONFIG_FIXED_WORKERS, "Fester Arbeiterpool - 38 % der Bevölkerung"},
     {TR_CONFIG_FULLSCREEN, "Vollbild"},
     {TR_CONFIG_GAME_SPEED, "Spielgeschwindigkeit:"},
-    {TR_CONFIG_GETTING_GRANARIES_GO_OFFROAD, "Karrenschieber von fordernden Silos laufen auch abseits der Straße"},
+    {TR_CONFIG_GETTING_GRANARIES_GO_OFFROAD, "Karrenschieber fordernder Silos laufen auch abseits der Straße"},
     {TR_CONFIG_GLOBAL_LABOUR, "Aktiviere globalen Arbeiterpool"},
     {TR_CONFIG_GODS_EFFECTS, "Götterflüche/-segnungen aktivieren"},
     {TR_CONFIG_GP_CH_DISABLE_INFINITE_WOLVES_SPAWNING, "Deaktiviere unendliches Erscheinen von Wölfen"},
