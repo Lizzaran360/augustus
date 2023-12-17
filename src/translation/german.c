@@ -1105,7 +1105,7 @@ static translation_string all_strings[] = {
     {TR_CONDITION_TYPE_BUILDING_COUNT_AREA, "Gebäude in Umgebung"},
     {TR_CONDITION_TYPE_TAX_RATE, "Steuersatz"},
     {TR_PARAMETER_ADD_AS_BUYING, "Als kaufend hinzufügen?"},
-    {TR_EDITOR_CUSTOM_MESSAGES_TITLE, "Benutzerdefinierte Nachrichten" },
+    {TR_EDITOR_CUSTOM_MESSAGES_TITLE, "Benutzerdef. Nachrichten" },
     {TR_EDITOR_CUSTOM_MESSAGES_COUNT, "Nachrichten gesamt" },
     {TR_EDITOR_CUSTOM_MESSAGES_CLEAR, "Botschaften leeren" },
     {TR_EDITOR_CUSTOM_MESSAGES_IMPORT_FULL, "Benutzerdefinierte Nachrichten importieren" },
