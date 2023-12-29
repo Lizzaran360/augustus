@@ -1058,7 +1058,7 @@ static translation_string all_strings[] = {
     {TR_WINDOW_RACE_BET_AMOUNT, "Betrag"},
     {TR_WINDOW_RACE_BET_DESCRIPTION, "Setzen Sie einen Betrag aus Ihrem persönlichen Vermögen auf ein Wagengespann Ihrer Wahl und verdoppeln Sie Ihren Einsatz, wenn Ihr Pferd gewinnt. Während der Kolosseum-Spiele wird Ihr Gewinn sogar vervierfacht!"},
     {TR_WARNING_BET_VICTORY, "Dein Pferd hat das Rennen im Hippodrom deiner Stadt gewonnen."},
-    {TR_WARNING_BET_DEFEAT, "Ihr Pferd hat das Rennen im Hippodrom Ihrer Stadt verloren."},
+    {TR_WARNING_BET_DEFEAT, "Ihr Pferd hat das Rennen im Hippodrom verloren."},
     {TR_PERSONAL_SAVINGS, "Ersparnisse: "},
     {TR_WINDOW_RACE_BET_BLUE_HORSE, "Setze auf das blaue Pferd"},
     {TR_WINDOW_RACE_BET_RED_HORSE, "Setze auf das rote Pferd"},
