@@ -458,7 +458,7 @@ static translation_string all_strings[] = {
     {TR_ADVISOR_SICKNESS_LEVEL_PLAGUE, "Die Pest ist in die Stadt gekommen! Viele Einwohner erkranken und einige Gebäude wurden unter Quarantäne gestellt oder niedergebrannt, um eine weitere Ausbreitung zu verhindern. Die wenigen Ärzte und Chirurgen, die zur Verfügung stehen, wurden angefordert, um die am stärksten betroffenen Orte zu dekontaminieren. Es muss gehandelt werden!"},
     {TR_ADVISOR_CHIEF_NO_IMMIGRATION_SQUALOR, "Schlechte Wohnbedingungen verhindern Zuwanderung"},
     {TR_HEADER_HOUSING, "Wohnungsberater"},
-    {TR_WINDOW_ADVISOR_RELIGION_ALTARS_HEADER, "Altare"}
+    {TR_WINDOW_ADVISOR_RELIGION_ALTARS_HEADER, "Altare"},
     {TR_WINDOW_ADVISOR_ENTERTAINMENT_ARENA_COVERAGE_PLURAL, "Arenen" },
     {TR_WINDOW_ADVISOR_ENTERTAINMENT_TAVERN_COVERAGE_PLURAL, "Tavernen" },
 	/* Tooltips */
@@ -1212,7 +1212,7 @@ static translation_string all_strings[] = {
 	/* Missions-Editor - Parameter*/
     {TR_PARAMETER_ADD_AS_BUYING, "Als kaufend hinzufügen?"},
     {TR_PARAMETER_ALLOWED, "Erlaubt?"},
-    {TR_PARAMETER_APPLY_COST, "Die 'öffenen' Kosten anwenden?"},
+    {TR_PARAMETER_APPLY_COST, "Die 'öffnen' Kosten anwenden?"},
     {TR_PARAMETER_CHECK_FOR_ONGOING, "Prüfen, ob es eine laufende Maßnahme ist?"},
     {TR_PARAMETER_CHECK_FOR_OPEN, "Prüfen, ob die Route offen ist?"},
     {TR_PARAMETER_DESTROY_ALL, "Alle Arten zerstören?"},
