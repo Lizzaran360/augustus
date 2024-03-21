@@ -823,7 +823,7 @@ static translation_string all_strings[] = {
     {TR_BUILDING_GRAND_TEMPLE_MARS_MODULE_1_DESC, "Priester des Mars erzeugen Nahrung, in einer Menge, die sich nach der Anzahl der Häuser richtet, die sie abdecken, und liefern sie an den Versorgungsposten. Gebäudekosten von Forts werden um 25 % reduziert."},
     {TR_BUILDING_GRAND_TEMPLE_MARS_MODULE_2_DESC, "Priester reduzieren den Verbrauch aller Waren um 10 % in Häusern mit Zugang zu einem Tempel des Mars."},
     {TR_BUILDING_MARS_TEMPLE_MODULE_DESC, "Die Priester des Prachttempels des Mars sammeln Lebensmittelspenden für Ihre Truppen, um diese an den Versorgungsposten zu liefern."},
-    {TR_BUILDING_MARS_TEMPLE_MODULE_DESC_NO_MESS, "Dieser Tempel wird Essen für deinen Versorgungsposten, sobald er gebaut wurde."},
+    {TR_BUILDING_MARS_TEMPLE_MODULE_DESC_NO_MESS, "Dieser Tempel wird Nahrungsmittel für deinen Versorgungsposten sammeln, sobald er gebaut wurde."},
     {TR_BUILDING_MARS_TEMPLE_QUOTE, "Andere schufen für Mars ein Fahrzeug\nmit fliegenden Rädern, wie er es braucht,\num Menschen und Städte aufs Schlachtfeld zu hetzen.\n-Virgil, die Aeneis; achter Gesang"},
     {TR_BUILDING_GRAND_TEMPLE_MERCURY, "Merkurs Prachttempel"},
     {TR_BUILDING_GRAND_TEMPLE_MERCURY_BONUS_DESC, "Merkur segnet Ihre Händler zu Lande und zu Wasser mit einer zusätzlichen Kapazität von 50 % und inspiriert Landhändler, sich 25 % schneller zu bewegen."},
