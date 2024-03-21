@@ -1041,7 +1041,7 @@ static translation_string all_strings[] = {
     {TR_BUILDING_WINDOW_HOUSE_UPSET_UNEMPLOYMENT, "Die Bewohner sind verärgert über fehlende Arbeitsplätze."},
     {TR_BUILDING_WINDOW_HOUSE_UPSET_SQUALOR, "Die Bewohner sind verzweifelt über ihre schlechte Unterbringung."},
     {TR_BUILDING_WINDOW_HOUSE_SUGGEST_ENTERTAINMENT, "Die Bewohner würden mehr Unterhaltung schätzen."},
-    {TR_BUILDING_WINDOW_HOUSE_SUGGEST_FOOD, "Die Bewohner würden eine abwechslungsreiche Ernährung \nschätzen."},
+    {TR_BUILDING_WINDOW_HOUSE_SUGGEST_FOOD, "Die Bewohner würden eine vielfältige Ernährung schätzen."},
     {TR_BUILDING_WINDOW_HOUSE_SUGGEST_DESIRABILITY, "Die Bewohner würden mehr Attraktivität schätzen."},
     {TR_BUILDING_WINDOW_HOUSE_RECENT_EVENT_POSITIVE, "Die Stimmung der Bewohner wird durch ein kürzlich stattgefundenes Ereignis gehoben."},
     {TR_BUILDING_WINDOW_HOUSE_RECENT_EVENT_NEGATIVE, "Die Bewohner sind durch ein aktuelles Ereignis entmutigt."},
