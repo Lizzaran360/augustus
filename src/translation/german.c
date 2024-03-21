@@ -752,7 +752,7 @@ static translation_string all_strings[] = {
     {TR_BUILDING_LARGE_MAUSOLEUM_PHASE_2, "Fassade" },
     {TR_BUILDING_LARGE_MAUSOLEUM_PHASE_1_TEXT, "Baumeister verlegen Schichten von präzise gearbeiteten Steinen, um das zentrale Gewölbe dieses Mausoleums zu bilden." },
     {TR_BUILDING_LARGE_MAUSOLEUM_PHASE_2_TEXT, "Geschickte Handwerker bereiten die Fassade dieses Mausoleums vor und meißeln glänzende Marmorstatuen zum Gedenken an diejenigen, die hier ruhen werden." },
-    {TR_BUILDING_LARGE_MAUSOLEUM_CONSTRUCTION_DESC, "Der Bau dieses Mausoleums benötigt in einem Lagerhaus gelagerte Materialien, Arbeiter eines Arbeitslagers und Baumeister einer Baumeistergilde." },
+    {TR_BUILDING_LARGE_MAUSOLEUM_CONSTRUCTION_DESC, "Der Bau dieses Mausoleums benötigt gelagerte Materialien, einfache Arbeiter und Baumeister einer Baumeistergilde." },
     /* Gebäude - Leuchtturm */
 	{TR_BUILDING_LIGHTHOUSE, "Leuchtturm"},
     {TR_BUILDING_LIGHTHOUSE_PHASE_1, "(Fundament)"},
@@ -1414,7 +1414,7 @@ static translation_string all_strings[] = {
     {TR_WINDOW_BUILDING_WHARF_MOTHBALLED, "Ihr Handelsberater hat einen Stopp der Fischproduktion angeordnet."},
     {TR_WINDOW_ADVISOR_FINANCE_INTEREST_TRIBUTE, "Tribut/Zins"},
     {TR_WINDOW_BUILDING_INFO_WARNING_NO_MONUMENT_ROAD_ACCESS, "Diese Monumentbaustelle hat keinen Straßenzugang und kann keine Materialien aufnehmen. Verbinden Sie eine Straße mit einer der mittleren Flächen."},
-    {TR_BUILDING_MONUMENT_CONSTRUCTION_ARCHITECT_NEEDED, "Dieses Denkmal verfügt über alle Materialien, die für diese Phase benötigt werden. Die Arbeiter warten auf einen qualifizierten Baumeister aus einer Baumeistergilde, der den weiteren Bau überwacht."},
+    {TR_BUILDING_MONUMENT_CONSTRUCTION_ARCHITECT_NEEDED, "Dieses Monument hat alle Materialien, für diese Bauphase. Die Arbeiter warten auf einen Baumeister, der den weiteren Bau überwacht."},
     {TR_WINDOW_BUILDING_GOVERNMENT_LARGE_STATUE_WATER_WARNING, "Diese Statue würde noch großartiger aussehen, wenn der Springbrunnen aktiv wäre. Sorgen Sie für einen Zugang zum Wasser."},
     {TR_OPTION_MENU_APPLY, "Anwenden"},
     {TR_OPTION_MENU_COST, "Die Kosten betragen"},
