@@ -300,7 +300,7 @@ static translation_string all_strings[] = {
     {TR_CHEAT_INCITED_RIOT, "Aufstand angezettelt"},
     {TR_CHEAT_KILLED_ALL_WALKERS, "Alle Wanderer getötet"},
     {TR_CHEAT_STARTED_INVASION, "Invasion gestartet"},
-    {TR_CHEAT_TOGGLE_TOOLTIPS, "Tooltip anzeigen umgeschaltet"}
+    {TR_CHEAT_TOGGLE_TOOLTIPS, "Tooltip anzeigen umgeschaltet"},
     {TR_CHEAT_UPDATED_MONUMENTS, "Monumente aktualisiert"},
     {TR_CHEAT_UNLOCKED_ALL_BUILDINGS, "Alle Gebäude freigeschaltet"},
     {TR_CHEAT_YEAR_ADVANCED, "Jahr fortgeschritten"},
