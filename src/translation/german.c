@@ -1251,8 +1251,8 @@ static translation_string all_strings[] = {
     {TR_WINDOW_MISSION_LIST_BUTTON_BEGIN_SCENARIO, "Szenario beginnen"},
     {TR_WINDOW_MISSION_LIST_BUTTON_SCENARIO_SELECTION, "Szenario-Auswahl"},
     {TR_WINDOW_MISSION_LIST_SCENARIOS, "Szenarien"},
-    {TR_ORIGINAL_CAMPAIGN_FIRST_MISSION, "Aufgabe 1: Ein Dorf entsteht"},
-    {TR_ORIGINAL_CAMPAIGN_SECOND_MISSION, "Aufgabe 2: Brundisium"},
+    {TR_ORIGINAL_CAMPAIGN_FIRST_MISSION, "Ein Dorf entsteht"},
+    {TR_ORIGINAL_CAMPAIGN_SECOND_MISSION, "Brundisium"},
 	/* Missions-Editor - Aktion*/
     {TR_ACTION_TYPE_A_MESSAGE, "Eine Nachricht"},
     {TR_ACTION_TYPE_ADJUST_CITY_HEALTH, "Gesundheit der Stadt anpassen"},
